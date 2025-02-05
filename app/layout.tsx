@@ -32,7 +32,7 @@ export default function RootLayout({
         <Navbar />
         {children}
       </body>
-      <Script src="https://colt-data.vercel.app/api/track?token=967a9964-165b-4056-8af1-09687f9d7efb" />
+      <Script src="https://colt-data.vercel.app/api/track?token=5cd22f17-e71b-486e-9c33-b71ec808db14" />
     </html>
   );
 }
